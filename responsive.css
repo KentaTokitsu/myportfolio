@@ -102,7 +102,7 @@
     width: 150px;
     height: 150px;
     margin: 20px 0;
-    animation:none;
+    animation-play-state: paused;
   }
 
   .submyself .profile {
