@@ -85,7 +85,7 @@
   .profile h2 {
     font-size: 20px
   }
-
+/*
   @keyframes imgbigger {
     0 {
       width: 0;
@@ -97,11 +97,12 @@
       height: 150px
     }
   }
-
+*/
   .submyself img {
     width: 150px;
     height: 150px;
-    margin: 20px 0
+    margin: 20px 0;
+    animation:none;
   }
 
   .submyself .profile {
