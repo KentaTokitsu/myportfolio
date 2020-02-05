@@ -46,11 +46,15 @@ a {
 }
 #loading {
  display: none;
- margin:0 auto;
- padding-top:150px;
+ padding-top:200px;
  text-align: center;
  color: #fff;
  z-index: 9;
+}
+#loading img{
+  padding-right: 10px;
+  width:30%;
+  height:20%;
 }
 
 
