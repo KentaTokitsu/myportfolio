@@ -7,8 +7,8 @@ $(function() {
  });
 
  $(window).load(function () {
-  $('#is-loading').delay(1900).fadeOut(1800);
-  $('#loading').delay(1600).fadeOut(1300);
+  $('#is-loading').delay(900).fadeOut(800);
+  $('#loading').delay(700).fadeOut(400);
   $('#loading__wrapper').css('display', 'block');
  });
 
@@ -19,8 +19,8 @@ $(function() {
 
   function stopload(){
    $('#loading__wrapper').css('display','block');
-   $('#is-loading').delay(1900).fadeOut(1800);
-   $('#loading').delay(1600).fadeOut(1300);
+   $('#is-loading').delay(900).fadeOut(800);
+   $('#loading').delay(700).fadeOut(400);
  }
 
 
