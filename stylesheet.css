@@ -154,7 +154,7 @@ a {
 
 .hero-part h1, .hero-part p {
   color: #fff;
-  font-family: daniel
+  font-family: daniel;
 }
 
 .hero-part .container {
@@ -282,11 +282,14 @@ a {
   transition: all 2s ease;
   font-weight: 700
 }
+.portfolio .portfolio-title{
+  font-family: daniel;
+}
 
 .portfolio h1, .portfolio span {
   font-size: 30px;
   font-weight: 600;
-  font-family: daniel
+
 }
 
 .portfolio {
@@ -309,7 +312,7 @@ a {
 
 .portfolio h1 {
   margin: 50px 0 10px;
-  font-family: daniel;
+
   font-size: 35px
 }
 
